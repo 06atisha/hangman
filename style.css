@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+#word-display {
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+#lives {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#keyboard {
+    display: none;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+button {
+    font-size: 18px;
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
